@@ -1,0 +1,8 @@
+framework module "Muggle" {
+	header "ref.h"
+    header "Muggle.objc.h"
+    header "Universe.objc.h"
+    header "Muggle.h"
+
+    export *
+}
